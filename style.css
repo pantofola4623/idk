@@ -1,0 +1,21 @@
+#css {
+    color:lightskyblue;
+    font-size: 30px;
+    font-family: "Times New Roman", Times;
+}
+
+#js {
+    color: lightcoral;
+    font-size: 30px;
+    font-family: "Times New Roman", Times;
+}
+
+#html {
+    color: lightgreen;
+    font-size: 30px;
+    font-family: "Times New Roman", Times;
+}
+#body {
+    font-family: "aerial", sans-serif;
+    font-size: 20px;
+}
