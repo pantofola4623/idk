@@ -1,21 +1,32 @@
-#css {
+.title {
+    color: lightblue;
+    font-size: 30px;
+    font-family: "Times New Roman", Times;
+}
+.css {
     color:lightskyblue;
     font-size: 30px;
     font-family: "Times New Roman", Times;
 }
 
-#js {
+.javascript {
     color: lightcoral;
     font-size: 30px;
     font-family: "Times New Roman", Times;
 }
 
-#html {
-    color: lightgreen;
+.html {
+    color: gray;
     font-size: 30px;
     font-family: "Times New Roman", Times;
 }
-#body {
-    font-family: "aerial", sans-serif;
+body {
+    color: black;
+    font-family: "Arial", sans-serif;
     font-size: 20px;
+}
+.cool_signature{
+    width: 100px;
+    height: 100px;
+
 }
