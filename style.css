@@ -10,7 +10,7 @@
 }
 
 .javascript {
-    color: lightcoral;
+    color:coral;
     font-size: 30px;
     font-family: "Times New Roman", Times;
 }
@@ -20,13 +20,35 @@
     font-size: 30px;
     font-family: "Times New Roman", Times;
 }
-body {
+.body {
     color: black;
     font-family: "Arial", sans-serif;
     font-size: 20px;
 }
-.cool_signature{
-    width: 100px;
-    height: 100px;
+img{
+    width: 300px;
+    height: 50px;
 
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+}
+#box1 {
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 300px;
+}
+#box2 {
+    background-color: lightskyblue;
+    border-radius: 10px;
+    width: 300px;
+}
+#box3 {
+    background-color: coral;
+    border-radius: 10px;
+    width: 300px;
 }
