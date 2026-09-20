@@ -11,23 +11,27 @@
 img{
     width: 300px;
     height: 50px;
-
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
 }
 .container{
+    background-color:whitesmoke;
+    padding:10px;
+    margin:50px;
     display:flex;
-    flex-direction:row;
-    justify-content:center;
-    align-items:center;
-    width:50px;
-    height:50px;
-    border-radius:10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 #box1{
     background-color:lightblue;
     border-radius:10px;
     width:300px;
     font-family:"pacifico", cursive;
-    justify-content:center;
+    
 }
 #box2{
     background-color:lightskyblue;
@@ -40,4 +44,9 @@ img{
     border-radius:10px;
     width:300px;
     font-family:"pacifico", cursive;
+}
+.BOX{
+    background-color: aliceblue;
+    padding:20px;
+    margin:10px;
 }
